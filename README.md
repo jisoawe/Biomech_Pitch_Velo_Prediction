@@ -15,7 +15,7 @@ The dataset is from the Driveline Open Biomechanics Project. More specifically t
 
 
 ## Models
-Gradient Boosting Regressor
+#### Gradient Boosting Regressor
 Gradient Boosting Regressor builds an ensemble of weak prediction models, typically decision trees, and combines them to create a strong predictive model.
 
 #### Random Forest Regressor
